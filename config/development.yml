@@ -2,11 +2,11 @@ environment: "localhost"
 port: 4000
 
 dbConfiguration:
-  host: "localhost"
-  port: 3306
-  username: "MSH"
-  password: "kkit1234"
-  database: "parking_slots"
+  host: "containers-us-west-137.railway.app"
+  port: 5952
+  username: "root"
+  password: "fUvYQk5jiILKx9v7oOEI"
+  database: "railway"
 
 secret_key: "JwT12#488(*Esy&&23_ut12@1!&#%/01q)"
 refresh_key: "3389DE3611BDBB6F"
