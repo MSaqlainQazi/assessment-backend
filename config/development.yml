@@ -1,0 +1,13 @@
+environment: "localhost"
+port: 4000
+
+dbConfiguration:
+  host: "localhost"
+  port: 3306
+  username: "MSH"
+  password: "kkit1234"
+  database: "parking_slots"
+
+secret_key: "JwT12#488(*Esy&&23_ut12@1!&#%/01q)"
+refresh_key: "3389DE3611BDBB6F"
+access_key: "4369D8A1F8B48526DC323797B946A"

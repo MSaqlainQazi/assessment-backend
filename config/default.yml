@@ -1,0 +1,14 @@
+environment: "localhost"
+host: 0.0.0.0
+port: 4000
+protocol: "http"
+
+authentication:
+  protect_routes: true
+
+dbConfiguration:
+  host: "localhost"
+  port: 3306
+  username: "MSH"
+  password: "kkit1234"
+  database: "parking_slots"
