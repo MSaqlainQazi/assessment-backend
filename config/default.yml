@@ -7,8 +7,8 @@ authentication:
   protect_routes: true
 
 dbConfiguration:
-  host: "localhost"
-  port: 3306
-  username: "MSH"
-  password: "kkit1234"
-  database: "parking_slots"
+  host: "containers-us-west-137.railway.app"
+  port: 5952
+  username: "root"
+  password: "fUvYQk5jiILKx9v7oOEI"
+  database: "railway"
